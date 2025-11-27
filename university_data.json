@@ -1,0 +1,336 @@
+{
+    "students": [
+        {
+            "id": "232031026",
+            "name": "Jahid",
+            "batch": "2021",
+            "department": "CSE"
+        },
+        {
+            "id": "S002",
+            "name": "Bob",
+            "batch": "2023",
+            "department": "CSE"
+        },
+        {
+            "id": "S003",
+            "name": "Charlie",
+            "batch": "2023",
+            "department": "CSE"
+        },
+        {
+            "id": "S004",
+            "name": "David",
+            "batch": "2023",
+            "department": "CSE"
+        },
+        {
+            "id": "S005",
+            "name": "Eva",
+            "batch": "2023",
+            "department": "CSE"
+        },
+        {
+            "id": "S006",
+            "name": "Frank",
+            "batch": "2023",
+            "department": "CSE"
+        },
+        {
+            "id": "S007",
+            "name": "Grace",
+            "batch": "2023",
+            "department": "CSE"
+        },
+        {
+            "id": "S008",
+            "name": "Hannah",
+            "batch": "2023",
+            "department": "CSE"
+        },
+        {
+            "id": "S009",
+            "name": "Ivy",
+            "batch": "2023",
+            "department": "CSE"
+        },
+        {
+            "id": "S010",
+            "name": "Jack",
+            "batch": "2023",
+            "department": "CSE"
+        },
+        {
+            "id": "S011",
+            "name": "Kim",
+            "batch": "2023",
+            "department": "CSE"
+        },
+        {
+            "id": "S012",
+            "name": "Leo",
+            "batch": "2023",
+            "department": "CSE"
+        },
+        {
+            "id": "S013",
+            "name": "Mia",
+            "batch": "2023",
+            "department": "CSE"
+        },
+        {
+            "id": "S014",
+            "name": "Nina",
+            "batch": "2023",
+            "department": "CSE"
+        },
+        {
+            "id": "S015",
+            "name": "Oscar",
+            "batch": "2023",
+            "department": "CSE"
+        },
+        {
+            "id": "fb",
+            "name": "cvb",
+            "batch": "cbv",
+            "department": "xcb"
+        }
+    ],
+    "teachers": [
+        {
+            "id": "T001",
+            "name": "gkg",
+            "designation": "jlnjljn",
+            "department": "hjkh"
+        },
+        {
+            "id": "T002",
+            "name": "Dr. Johnson",
+            "designation": "Associate Professor",
+            "department": "CSE"
+        },
+        {
+            "id": "T003",
+            "name": "Dr. Williams",
+            "designation": "Assistant Professor",
+            "department": "CSE"
+        },
+        {
+            "id": "ghjgf",
+            "name": "hgj",
+            "designation": "h",
+            "department": "hj"
+        }
+    ],
+    "courses": [
+        {
+            "code": "CSE101",
+            "name": "Intro to Programming",
+            "department": "CSE"
+        },
+        {
+            "code": "CSE102",
+            "name": "Data Structures",
+            "department": "CSE"
+        },
+        {
+            "code": "CSE103",
+            "name": "Algorithms",
+            "department": "CSE"
+        },
+        {
+            "code": "CSE104",
+            "name": "Computer Architecture",
+            "department": "CSE"
+        },
+        {
+            "code": "CSE105",
+            "name": "Database Systems",
+            "department": "CSE"
+        },
+        {
+            "code": "hm",
+            "name": "hmhbv",
+            "department": "hm"
+        }
+    ],
+    "results": [
+        {
+            "student_id": "S001",
+            "grades": {
+                "CSE101": "A",
+                "CSE102": "A",
+                "CSE103": "C",
+                "CSE104": "A",
+                "CSE105": "A",
+                "hm": "A"
+            }
+        },
+        {
+            "student_id": "S002",
+            "grades": {
+                "CSE101": "A",
+                "CSE102": "A",
+                "CSE103": "A",
+                "CSE104": "A",
+                "CSE105": "A",
+                "hm": "A"
+            }
+        },
+        {
+            "student_id": "S003",
+            "grades": {
+                "CSE101": "A",
+                "CSE102": "A",
+                "CSE103": "A",
+                "CSE104": "A",
+                "CSE105": "A",
+                "hm": "A"
+            }
+        },
+        {
+            "student_id": "S004",
+            "grades": {
+                "CSE101": "A",
+                "CSE102": "A",
+                "CSE103": "A",
+                "CSE104": "A",
+                "CSE105": "A",
+                "hm": "A"
+            }
+        },
+        {
+            "student_id": "S005",
+            "grades": {
+                "CSE101": "A",
+                "CSE102": "A",
+                "CSE103": "A",
+                "CSE104": "A",
+                "CSE105": "A",
+                "hm": "A"
+            }
+        },
+        {
+            "student_id": "S006",
+            "grades": {
+                "CSE101": "A",
+                "CSE102": "A",
+                "CSE103": "A",
+                "CSE104": "A",
+                "CSE105": "A",
+                "hm": "A"
+            }
+        },
+        {
+            "student_id": "S007",
+            "grades": {
+                "CSE101": "A",
+                "CSE102": "A",
+                "CSE103": "A",
+                "CSE104": "A",
+                "CSE105": "A",
+                "hm": "A"
+            }
+        },
+        {
+            "student_id": "S008",
+            "grades": {
+                "CSE101": "A",
+                "CSE102": "A",
+                "CSE103": "A",
+                "CSE104": "A",
+                "CSE105": "A",
+                "hm": "A"
+            }
+        },
+        {
+            "student_id": "S009",
+            "grades": {
+                "CSE101": "A",
+                "CSE102": "A",
+                "CSE103": "A",
+                "CSE104": "A",
+                "CSE105": "A",
+                "hm": "A"
+            }
+        },
+        {
+            "student_id": "S010",
+            "grades": {
+                "CSE101": "A",
+                "CSE102": "A",
+                "CSE103": "A",
+                "CSE104": "A",
+                "CSE105": "A",
+                "hm": "A"
+            }
+        },
+        {
+            "student_id": "S011",
+            "grades": {
+                "CSE101": "A",
+                "CSE102": "A",
+                "CSE103": "A",
+                "CSE104": "A",
+                "CSE105": "A",
+                "hm": "A"
+            }
+        },
+        {
+            "student_id": "S012",
+            "grades": {
+                "CSE101": "A",
+                "CSE102": "A",
+                "CSE103": "A",
+                "CSE104": "A",
+                "CSE105": "A",
+                "hm": "A"
+            }
+        },
+        {
+            "student_id": "S013",
+            "grades": {
+                "CSE101": "A",
+                "CSE102": "A",
+                "CSE103": "A",
+                "CSE104": "A",
+                "CSE105": "A",
+                "hm": "A"
+            }
+        },
+        {
+            "student_id": "S014",
+            "grades": {
+                "CSE101": "A",
+                "CSE102": "A",
+                "CSE103": "A",
+                "CSE104": "A",
+                "CSE105": "A",
+                "hm": "A"
+            }
+        },
+        {
+            "student_id": "S015",
+            "grades": {
+                "CSE101": "A",
+                "CSE102": "A",
+                "CSE103": "A",
+                "CSE104": "A",
+                "CSE105": "A",
+                "hm": "A"
+            }
+        },
+        {
+            "student_id": "fb",
+            "grades": {
+                "CSE101": "A",
+                "CSE102": "A",
+                "CSE103": "A",
+                "CSE104": "A",
+                "CSE105": "A",
+                "hm": "A"
+            }
+        }
+    ]
+}
